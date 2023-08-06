@@ -18,7 +18,7 @@ Register an API key at https://www.coinapi.io/
 ```
    npm install
 ```
-3. Run  the following command ```npm link ```otherwise your project will not work in CLI.
+3. Run the following command ```npm link``` otherwise your project will not work in CLI.
 
 
 ## Commands
@@ -39,8 +39,8 @@ coindex key remove
 coindex check price
 
 # Check Specific Coins (default: BTC)
-coindex check --coin=BTC
+coindex check price --coin=BTC
 
 # Choose Currency (Default: INR)
-coindex check --cur=EUR
+coindex check price --cur=EUR
 ```
