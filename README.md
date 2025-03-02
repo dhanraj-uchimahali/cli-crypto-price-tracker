@@ -9,10 +9,10 @@ Register an API key at https://www.coinapi.io/
 1. Clone the repository:
 
    HTTPS:
-   git clone https://github.com/Aizonati/cli-crypto-price-tracker.git
+   git clone https://github.com/dhanraj-uchimahali/cli-crypto-price-tracker.git
    
    SSH:
-   git clone git@github.com:Aizonati/cli-crypto-price-tracker.git
+   git clone git@github.com:dhanraj-uchimahali/cli-crypto-price-tracker.git
 
 2. Install dependencies:
 ```
